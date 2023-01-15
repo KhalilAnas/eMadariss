@@ -10,7 +10,7 @@ edge = webdriver.Edge("driver.exe", options=edge_options)
 edge.get("https://alhassania.emadariss.net/Login?ReturnUrl=%2fEvents")
 
 class App:
-    def log_in(username="a.khalil45", password="htmlCSS@13"):
+    def log_in(username="your_username", password="your_password"):
         user_field = edge.find_element(By.XPATH, "//input[@id='Username']")
         user_field.send_keys(username)
 
