@@ -1,6 +1,6 @@
 # eMadariss in english.
 
-You don't speak english? No worries, [english translation is over here: ](#eMadariss en francais:)
+You don't speak english? No worries, [english translation is over here: ](#eMadariss-en-francais:)
 
 ## What is it?
 
