@@ -1,7 +1,5 @@
 # eMadariss in english.
 
-You don't speak english? No worries, [english translation is over here: ](#eMadariss-en-francais:)
-
 ## What is it?
 
 It's a python program that creates a to-do list for my homework.
